@@ -55,14 +55,18 @@ q:after {content:''}
 }
 /*nav*/
 #nav{
-	padding:0 35px;	margin:0 auto 20px;	list-style:none;
+	padding:0 35px;
+	margin:0 auto 20px;
+	list-style:none;
 	height:30px;
 	width:312px;
 	font:14px/28px 'DroidSerifBold', Arial, Helvetica, sans-serif;
 	background:url(../images/bg-nav.png) no-repeat 0 100%;
 }
 #nav:after{
-	content:'';	display:block;	clear:both;
+	content:'';
+	display:block;
+	clear:both;
 }
 #nav li{
 	float:left;
@@ -105,7 +109,9 @@ q:after {content:''}
 	padding:0 0 28px;
 }
 .main-holder:after{
-	content:'';	display:block;	clear:both;
+	content:'';
+	display:block;
+	clear:both;
 }
 /*main-frame*/
 .main-frame{
@@ -132,8 +138,10 @@ q:after {content:''}
 }
 .social-network .holder{background:url(../images/bg-social.png) no-repeat;}
 .social-network ul{
-	padding:5px 0 4px 9px;	margin:0 -16px 0 0;
-	overflow:hidden;	list-style:none;
+	padding:5px 0 4px 9px;
+	margin:0 -16px 0 0;
+	overflow:hidden;
+	list-style:none;
 }
 .social-network li{
 	float:left;
@@ -177,7 +185,9 @@ q:after {content:''}
 /*container*/
 .container{width:100%;}
 .container:after{
-	content:'';	display:block;	clear:both;
+	content:'';
+	display:block;
+	clear:both;
 }
 /*sidebar*/
 #sidebar{
@@ -207,7 +217,9 @@ q:after {content:''}
 }
 /*items*/
 .items{
-	padding:0;	margin:-8px 0 0;	list-style:none;
+	padding:0;
+	margin:-8px 0 0;
+	list-style:none;
 	font-weight:bold;
 }
 .items li{
@@ -293,7 +305,9 @@ q:after {content:''}
 .gallery{
 	position:relative;
 	width:99999px;
-	padding:0;	margin:0;	list-style:none;
+	padding:0;
+	margin:0;
+	list-style:none;
 	overflow:hidden;
 }
 .gallery li{
@@ -304,7 +318,9 @@ q:after {content:''}
 /*switcher*/
 .gallery-holder .switcher{
 	float:right;
-	padding:0;	margin:0;	list-style:none;
+	padding:0;
+	margin:0;
+	list-style:none;
 }
 .gallery-holder .switcher li{
 	float:left;
